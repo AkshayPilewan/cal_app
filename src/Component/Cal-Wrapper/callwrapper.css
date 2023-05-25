@@ -1,0 +1,19 @@
+.main-cal{
+
+}
+
+.bt-name{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 60px;
+    justify-content: space-around;
+}
+
+.op-name{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: 50px;
+    justify-content: space-around;
+}
